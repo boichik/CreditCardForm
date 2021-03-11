@@ -1,0 +1,33 @@
+{
+  "name": "card-form",
+  "version": "1.0.0",
+  "description": "Example form for credit card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['web','card','credit-card','form','css','scss','html','js','javascript',
+    'jquery'],
+  "author": "Vlad Boyko (boichik)",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "browserslist": "^4.16.1",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "browserslist": [
+    "last 3 version"
+  ],
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp-minify": "^3.1.0",
+    "jquery": "^3.6.0"
+  }
+}
